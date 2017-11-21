@@ -1,0 +1,43 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #6E6D6C;
+  background-color: rgba(235, 235, 235, 1);
+}
+
+h1{
+  color: #E8322D;
+}
+
+.section-intro{
+    background-color: white;
+    width: 500px;
+    padding: 25px;
+    margin: auto;
+}
+.ul{
+  margin:auto;
+  padding: 24px;
+}
+.section-icon li{
+  display: inline-block;
+  background-color: white;
+  color: lightgrey;
+  margin: 10;
+  padding: 50px;
+  width: 80px;
+}
+.section-film{
+  background-color: white;
+  width: 500px;
+  padding: 25px;
+  margin: auto;
+}
+.div-bouton {
+  display: inline-block;
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+  padding:5px;
+  text-decoration: none;
+}
